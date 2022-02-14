@@ -1,0 +1,17 @@
+.a{
+    height: 80vh;
+}
+
+.a-line{
+    color: #56b256;
+    width: 100px;
+    opacity: 1;
+}
+
+.gcolor{
+    background-color: #56b256!important; 
+    color: white,!important;;
+}
+.a-icon{
+    color: #56b256;
+}
