@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21d8d3f1.css",
+    "main.js": "/static/js/main.7b624046.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/s3.png": "/static/media/s3.b80561e8641c311b05be.png",
+    "static/media/Serag Tarek CV.pdf": "/static/media/Serag Tarek CV.0218aae50c3cadebfc11.pdf",
+    "static/media/address.png": "/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/phone.png": "/static/media/phone.d90a6d23cf5129d853bb.png",
+    "index.html": "/index.html",
+    "main.21d8d3f1.css.map": "/static/css/main.21d8d3f1.css.map",
+    "main.7b624046.js.map": "/static/js/main.7b624046.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21d8d3f1.css",
+    "static/js/main.7b624046.js"
+  ]
+}
