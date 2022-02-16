@@ -102,15 +102,15 @@ const Intro = () => {
 
         </div>
 
-        <div className="col p-3 position-relative">
-          <div className="intro-bg ">
-            <div className="rounded-circle bg-white p-2 h-75 w-75 position-absolute top-25 end-0 mt-3 me-4 ">
+        <div className="col p-3 ">
+          <div className="intro-bg p-4 border border-white">
+            <div className="bg-success rounded-circle p-3  mx-auto">
               <img
                 src={serag}
                 alt="asd"
-                className="intro-img mg-fluid rounded-circle  mt-3 ms-4"
-              />
-            </div>
+                className="intro-img bg-white img-fluid rounded-circle border border-dark border-3 m-3"
+              /> 
+              </div>
           </div>
         </div>
       </div>

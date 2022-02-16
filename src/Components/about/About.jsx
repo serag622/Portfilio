@@ -55,7 +55,6 @@ const About = () => {
                 <a className='a-icon m-3' href={'https://www.facebook.com/serag.tarek.79/'}><FontAwesomeIcon icon={faFacebook} /></a>
                 <a className='a-icon m-3' href={'https://www.linkedin.com/in/serag-tarek-32105617b/'}><FontAwesomeIcon icon={faLinkedin} /></a>
                 <a className='a-icon m-3' href={'https://github.com/serag622'} ><FontAwesomeIcon icon={faGithub} /></a>                
-
             </div>
             
         </div>
